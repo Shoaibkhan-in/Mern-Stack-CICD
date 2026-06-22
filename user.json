@@ -1,0 +1,55 @@
+[
+  {
+    "_id": "697e0283db9d4464ae3180e1",
+    "name": "shaoiub",
+    "email": "23456sjdhas@gmail.com",
+    "password": "$2b$10$.QeQXBJMXnv3VgiSJsw8mOs/8x/j5GN7diRZ4BvW868zwyIZvIBb.",
+    "createdAt": "2026-01-31T13:24:19.154Z",
+    "updatedAt": "2026-01-31T13:24:19.154Z",
+    "__v": 0
+  },
+  {
+    "_id": "697e02d669ac97a39dce9d51",
+    "name": "shaoiub",
+    "email": "Shoaib@gmail.com",
+    "password": "$2b$10$2KaWlFzYwdL18KUmGHHYI.fTA1q9Mzxd0qLeLGjNudhNfCrJKrjX2",
+    "createdAt": "2026-01-31T13:25:42.121Z",
+    "updatedAt": "2026-01-31T13:25:42.121Z",
+    "__v": 0
+  },
+  {
+    "_id": "697e032a69ac97a39dce9d54",
+    "name": "shaoiub",
+    "email": "hello@gmail.com",
+    "password": "$2b$10$AKN/eMsXDO63f2KqLxd.qOtZbOu/akgyPHzXE2fLUdVBAE6O7IxMS",
+    "createdAt": "2026-01-31T13:27:06.993Z",
+    "updatedAt": "2026-01-31T13:27:06.993Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a0dd3128f23dd5592744703",
+    "name": "Shoaib",
+    "email": "shoaibkhan@tcs.com",
+    "__v": 0
+  },
+  {
+    "_id": "6a0dd34156300f524de44d05",
+    "name": "Shoaib",
+    "email": "shoaibkhan@tcs.com",
+    "__v": 0
+  },
+  {
+    "_id": "6a0f18914e61f2644b1157bf",
+    "Username": "Shoaib",
+    "Email": "thisisemail@tcs.com",
+    "Password": "$2b$10$TRP78W6qJ8NXu5MvifzMJu.S/BoU3qnafCKXhY2u0yumK/hpG3BIa",
+    "__v": 0
+  },
+  {
+    "_id": "6a11ae67984aa5f0c6eeaaf0",
+    "Username": "Shoaibkhan@1234",
+    "Email": "Shoaibkhan@1234.com",
+    "Password": "$2b$10$1EJY9vuUNg6Mc/IU7ywcMOjNT1BnyVcTMwM9m7Sr9lMN1z1R/r11.",
+    "__v": 0
+  }
+]
