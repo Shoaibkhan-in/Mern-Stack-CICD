@@ -1,17 +1,9 @@
 services:
 
-  mongodb:
-    image: mongo:7
-    container_name: mongodb
-    restart: always
-    ports:
-      - "27017:27017"
-    volumes:
-      - mongo-data:/data/db
-
   backend:
     build:
       context: ./backend
+      dockerfile: Dockerfile
     container_name: express-backend
     ports:
       - "5000:5000"
@@ -21,11 +13,23 @@ services:
   frontend:
     build:
       context: ./frontend
+      dockerfile: Dockerfile
     container_name: react-frontend
     ports:
       - "3000:80"
     depends_on:
       - backend
+
+  mongodb:
+    image: mongo:7
+    container_name: mongodb
+    restart: always
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+
+  
 
 volumes:
   mongo-data:
